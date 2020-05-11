@@ -1,4 +1,4 @@
-# Simple WebRTC Messenger
+# Simple WebRTC Messenger (Cited from https://github.com/sitepoint-editors/simplewebrtc-messenger)
 
 A tutorial on building a WebRTC video chat app with [SimpleWebRTC](https://simplewebrtc.com/) , that allows you to communicate with (for example) your customers in real-time.
 
